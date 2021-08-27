@@ -14,11 +14,3 @@ Welcome to FTCRookieDocs's documentation!
    Programming/Getting Started.md
    Building/Choosing A Parts Vendor.md
    Setting Up Your Team/Finding Members.md
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
