@@ -3,14 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to FTCRookieDocs's documentation!
+Welcome to FTCRookieDocs!
 =========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table Of Contents:
 
 
-   Programming/Getting Started.md
-   Building/Choosing A Parts Vendor.md
-   Setting Up Your Team/Finding Members.md
+   Setting Up Your Team/index.rst
+
+
+   Building/index.rst
+
+   Programming/index.rst
+
+
